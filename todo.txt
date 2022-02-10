@@ -1,0 +1,5 @@
+Container: kubernetes, openshift
+cloud: AWS, Azure
+Coding: Python
+Automation: Ansible
+Os: redhat suse
